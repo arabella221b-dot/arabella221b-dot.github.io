@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "Grown up in Nanjing, a historic city of China which has been the capital for hundreds years, I developed great interest in art and literature. Although I decided to study math in my undergrad, I still took courses on philosophy, theatre and literature. Thanks to UBC Art."
+    "text": "My first weeks in MDS\n\n\n\n\n\n\n\n\nSep 13, 2026\n\n\nFang Fang\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -14,11 +14,18 @@
     "text": "Hi, I come from China. I finished my bachelor degree in UBC math. I hope to learn more about coding with data in real life in this program.\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
-    "objectID": "index.html#hi-i-come-from-china.-i-finished-my-bachelor-degree-in-ubc-math.-i-hope-to-learn-more-about-coding-with-data-in-real-life-in-this-program.",
-    "href": "index.html#hi-i-come-from-china.-i-finished-my-bachelor-degree-in-ubc-math.-i-hope-to-learn-more-about-coding-with-data-in-real-life-in-this-program.",
-    "title": "Fang Fang",
-    "section": "Hi, I come from China. I finished my bachelor degree in UBC math. I hope to learn more about coding with data in real life in this program.",
-    "text": "Hi, I come from China. I finished my bachelor degree in UBC math. I hope to learn more about coding with data in real life in this program.\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "objectID": "posts/first-weeks/index.html",
+    "href": "posts/first-weeks/index.html",
+    "title": "My first weeks in MDS",
+    "section": "",
+    "text": "a day on campus.\n\n\nDue to the visa and flight, I missed the orientation. But thanks to the instructors, all necessary information are on slack or canvas. Although some of them is not easy to find, asking classmate can easily figure out that problem.\nI arrive UBC just one day before the class start. I was totally confused at the first day. Workday shows that the class start at 9.02, while the email from instructors said it should start at 8.31. So at the very morning, I decided to take a look if there is anyone in the classroom, if not I will just go back to sleep. So I catch the first day’s class fortunately.\nThis program is even more fast-paced than I thought, I never took any 8am courses before. And that is also the first time I took quiz/mt not in my classtime. But I really like this experience. It makes me feel fulfilled. I am looking forward to learn more in this year."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Grown up in Nanjing, a historic city of China which has been the capital for hundreds years, I developed great interest in art and literature. Although I decided to study math in my undergrad, I still took courses on philosophy, theatre and literature. Thanks to UBC Art."
   },
   {
     "objectID": "about.html#background",
