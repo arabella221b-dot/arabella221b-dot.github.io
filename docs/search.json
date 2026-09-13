@@ -4,13 +4,41 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "Grown up in Nanjing, a historic city of China which has been the capital for hundreds years, I developed great interest in art and literature. Although I decided to study math in my undergrad, I still took courses on philosophy, theatre and literature. Thanks to UBC Art."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "milestone2’s website",
+    "title": "Fang Fang",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hi, I come from China. I finished my bachelor degree in UBC math. I hope to learn more about coding with data in real life in this program.\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#hi-i-come-from-china.-i-finished-my-bachelor-degree-in-ubc-math.-i-hope-to-learn-more-about-coding-with-data-in-real-life-in-this-program.",
+    "href": "index.html#hi-i-come-from-china.-i-finished-my-bachelor-degree-in-ubc-math.-i-hope-to-learn-more-about-coding-with-data-in-real-life-in-this-program.",
+    "title": "Fang Fang",
+    "section": "Hi, I come from China. I finished my bachelor degree in UBC math. I hope to learn more about coding with data in real life in this program.",
+    "text": "Hi, I come from China. I finished my bachelor degree in UBC math. I hope to learn more about coding with data in real life in this program.\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About",
+    "section": "",
+    "text": "Grown up in Nanjing, a historic city of China which has been the capital for hundreds years, I developed great interest in art and literature. Although I decided to study math in my undergrad, I still took courses on philosophy, theatre and literature. Thanks to UBC Art."
+  },
+  {
+    "objectID": "about.html#why-data-science",
+    "href": "about.html#why-data-science",
+    "title": "About",
+    "section": "Why data science",
+    "text": "Why data science\nDS is a practical and useful subject. Even though today AI has took a great part of data sciencetists’ job, I still feel there is something we could do. Operate,understood and improve AI’s work still need knowledge on DS."
+  },
+  {
+    "objectID": "about.html#outside-of-data-science",
+    "href": "about.html#outside-of-data-science",
+    "title": "About",
+    "section": "Outside of data science",
+    "text": "Outside of data science\nI prefer indoor activities during the rain season of vancouver. As I introduced in the first paragraph, I like theatre, reading and writing. Video games is also a kind of art that I appreciate. In casual days I cook Chinese cuisine at home. Sonetimes I also invite friends to enjoy it together.\nAbout this site"
   }
 ]

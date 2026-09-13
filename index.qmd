@@ -1,6 +1,11 @@
 ---
-title: "milestone2's website"
+title: "Fang Fang"
+about:
+  template: jolla
+  image: images/IMG_9066.JPG
 ---
+
+\t.Hi, I come from China. I finished my bachelor degree in UBC math. I hope to learn more about coding with data in real life in this program.
 
 This is a Quarto website.
 

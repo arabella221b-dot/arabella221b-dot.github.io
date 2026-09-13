@@ -1,5 +1,13 @@
 ---
 title: "About"
 ---
+## Background
+Grown up in Nanjing, a historic city of China which has been the capital for hundreds years, I developed great interest in art and literature. Although I decided to study math in my undergrad, I still took courses on philosophy, theatre and literature. Thanks to UBC Art.
+
+## Why data science
+DS is a practical and useful subject. Even though today AI has took a great part of data sciencetists' job, I still feel there is something we could do. Operate,understood and improve AI's work still need knowledge on DS.
+
+## Outside of data science
+I prefer indoor activities during the rain season of vancouver. As I introduced in the first paragraph, I like theatre, reading and writing. Video games is also a kind of art that I appreciate. In casual days I cook Chinese cuisine at home. Sonetimes I also invite friends to enjoy it together.  
 
 About this site
