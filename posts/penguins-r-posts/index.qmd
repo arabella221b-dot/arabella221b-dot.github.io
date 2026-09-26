@@ -1,0 +1,60 @@
+---
+title: "Penguin Flipper Length and Body Mass in R"
+author: "Fang Fang"
+date: 2026-09-26
+---
+
+Data: [Palmer Penguins](https://allisonhorst.github.io/palmerpenguins/),
+Palmer Station Antarctica LTER.
+Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data. R package version 0.1.0. https://allisonhorst.github.io/palmerpenguins/. doi:10.5281/zenodo.3960218.
+
+In this post, I will compare penguins flipper length and body mass using the Palmer Penguins dataset.
+
+```{r}
+#| message: false
+#| warning: false
+
+library(palmerpenguins)
+library(tidyr)
+library(dplyr)
+penguins <- palmerpenguins::penguins
+head(penguins)
+```
+
+Before proceeding the analysis, I clean the data first by removing na values in flipper length and body mass. 
+For convenience, I also only keep the columns I want to study with.
+
+```{r}
+penguins_data <- penguins |>
+    select(species,flipper_length_mm,body_mass_g) |>
+    drop_na()
+```
+
+Next, I calculate the average flipper length and body mass for each species.
+
+```{r}
+penguins_data |>
+    group_by(species) |>
+    summarise(mean_flipper_length_mm = mean(flipper_length_mm),
+        mean_body_mass_g = mean(body_mass_g))
+```
+
+To study the relation between Flipper Length and Body Mass, I calculate the correlation.
+
+```{r}
+cor(penguins_data$flipper_length_mm, penguins_data$body_mass_g)
+```
+
+After that, I plot Flipper Length and Body Mass into graph
+
+```{r}
+#| label: fig-penguins-flipper-mass
+#| fig-cap: "Flipper length and body mass of Palmer penguins."
+
+plot(penguins_data$flipper_length_mm,
+    penguins_data$body_mass_g,
+    xlab = "Flipper length (mm)",
+    ylab = "Body mass (g)")
+```
+
+This plot shows a positive, approximately linear relation between Flipper length and body mass. That is also intuitive, penguins with longer flippers tend to be heavier.
